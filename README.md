@@ -50,7 +50,7 @@
     <img align="center" alt="GitHub logo" height="50" width="50" src="assests/githublogo.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="avalonix01@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mail:avalonix01@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" alt="Gmail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a> &nbsp;&nbsp;
   
