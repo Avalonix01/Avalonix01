@@ -1,4 +1,4 @@
-<!-- README.md -->
+ttttt<!-- README.md -->
 
 <div align="center" style="background-color:#0F2027; padding: 20px; border-radius: 10px; border: 1px solid #00FEEF; display: inline-block;">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=4000&pause=1200&color=00FEEF&center=true&vCenter=true&width=950&height=55&lines=Hi+there%2C+I'm+Avalon!;Fun+fact%3A+I'm+definitely+not+a+stone." alt="Typing animation" />
@@ -42,16 +42,12 @@
 <h3 align="center">📡 Connect with Me</h3>
 
 <p align="center" style="margin-bottom: 30px;">
-  <a href="https://www.linkedin.com/in/avalonix01/" target="_blank" rel="noopener noreferrer">
-    <img align="center" alt="LinkedIn logo" height="50" width="50" src="assests/linkedinlogo.png" />
+  <a href="https://discord.com/users/1112018925832638616/" target="_blank" rel="noopener noreferrer">
+    <img align="center" alt="Discord logo" height="50" width="50" src="assests/linkedinlogo.png" />
   </a> &nbsp;&nbsp;
 
   <a href="https://github.com/Avalonix01" target="_blank" rel="noopener noreferrer">
     <img align="center" alt="GitHub logo" height="50" width="50" src="assests/githublogo.png" />
-  </a> &nbsp;&nbsp;
-
-  <a href="mailto:avalonix.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" alt="Gmail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a> &nbsp;&nbsp;
   
 </p>
