@@ -1,0 +1,57 @@
+<!-- README.md -->
+
+<div align="center" style="background-color:#0F2027; padding: 20px; border-radius: 10px; border: 1px solid #00FEEF; display: inline-block;">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=4000&pause=1200&color=00FEEF&center=true&vCenter=true&width=950&height=55&lines=Hi+there%2C+I'm+Avalon!;Fun+fact%3A+I'm+definitely+not+a+stone." alt="Typing animation" />
+</div>
+
+<img src="assests/borderseperator.gif" alt="border separator" />
+
+<h2 align="center">🧠 Tech Stack</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,docker,azure,redis,rabbitmq,kubernetes" height="50" alt="Backend and DevOps" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding-top: 20px;">
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,git,github,postman,linux,notion" height="50" alt="Development tools" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I'm a backend developer who works mainly with <strong>C#</strong> and <strong>.NET</strong>.<br/>
+  I enjoy building clean, fast and scalable applications.<br/>
+  Always learning, always coding.
+</p>
+
+<img src="assests/borderseperator.gif" alt="border separator" />
+
+<p align="center">
+  <img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
+</p>
+
+<img src="assests/borderseperator.gif" alt="border separator" />
+
+<h3 align="center">📡 Connect with Me</h3>
+
+<p align="center" style="margin-bottom: 30px;">
+  <a href="https://www.linkedin.com/in/avalonix01/" target="_blank" rel="noopener noreferrer">
+    <img align="center" alt="LinkedIn logo" height="50" width="50" src="assests/linkedinlogo.png" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://github.com/Avalonix01" target="_blank" rel="noopener noreferrer">
+    <img align="center" alt="GitHub logo" height="50" width="50" src="assests/githublogo.png" />
+  </a> &nbsp;&nbsp;
+
+  <a href="mailto:avalonix.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img align="center" alt="Gmail logo" height="50" width="50" src="assests/gmailogo.png" />
+  </a> &nbsp;&nbsp;
+  
+</p>
