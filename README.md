@@ -8,19 +8,29 @@
 
 <h2 align="center">🧠 Tech Stack</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql,docker,azure,redis,rabbitmq,kubernetes" height="50" alt="Backend and DevOps" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding-top: 20px;">
-        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,git,github,postman,linux,notion" height="50" alt="Development tools" />
-      </td>
-    </tr>
-  </table>
+<div align="center" style="margin-top: 20px;">
+  
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=cs" height="50" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="50" />
+    <img src="https://skillicons.dev/icons?i=postgresql" height="50" />
+    <img src="https://skillicons.dev/icons?i=docker" height="50" />
+    <img src="https://skillicons.dev/icons?i=azure" height="50" />
+    <img src="https://skillicons.dev/icons?i=redis" height="50" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 15px; margin-left: 30px; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="50" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 15px; margin-left: 60px;">
+    <img src="https://skillicons.dev/icons?i=git" height="50" />
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+    <img src="https://skillicons.dev/icons?i=linux" height="50" />
+  </div>
 </div>
 
 <h2 align="center">👨‍💻 About Me</h2>
