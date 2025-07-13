@@ -16,12 +16,9 @@
     <img src="https://skillicons.dev/icons?i=postgresql" height="50" />
     <img src="https://skillicons.dev/icons?i=docker" height="50" />
     <img src="https://skillicons.dev/icons?i=azure" height="50" />
-    <img src="https://skillicons.dev/icons?i=redis" height="50" />
   </div>
 
   <div style="display: flex; justify-content: center; gap: 15px; margin-left: 30px; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" />
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
     <img src="https://skillicons.dev/icons?i=visualstudio" height="50" />
     <img src="https://skillicons.dev/icons?i=vscode" height="50" />
   </div>
